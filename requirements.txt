@@ -1,3 +1,9 @@
-python-telegram-bot==20.7
-gspread
-oauth2client
+fastapi
+uvicorn
+insightface
+onnxruntime
+opencv-python-headless
+numpy
+pydantic
+requests
+python-multipart
